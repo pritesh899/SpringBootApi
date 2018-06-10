@@ -1,0 +1,10 @@
+/Users/priteshratnappagol/Documents/workspace/boot/src/main/java/com/pritesh/api/Application.java
+/Users/priteshratnappagol/Documents/workspace/boot/src/main/java/com/pritesh/api/config/SwaggerConfig.java
+/Users/priteshratnappagol/Documents/workspace/boot/src/main/java/com/pritesh/api/service/WeatherService.java
+/Users/priteshratnappagol/Documents/workspace/boot/src/main/java/com/pritesh/api/serviceImpl/WeatherServiceImpl.java
+/Users/priteshratnappagol/Documents/workspace/boot/src/main/java/com/pritesh/api/exception/BadRequestException.java
+/Users/priteshratnappagol/Documents/workspace/boot/src/main/java/com/pritesh/api/entity/Weather.java
+/Users/priteshratnappagol/Documents/workspace/boot/src/main/java/com/pritesh/api/controller/WeatherController.java
+/Users/priteshratnappagol/Documents/workspace/boot/src/main/java/com/pritesh/api/repository/WeatherRepository.java
+/Users/priteshratnappagol/Documents/workspace/boot/src/main/java/com/pritesh/api/exception/NotFoundException.java
+/Users/priteshratnappagol/Documents/workspace/boot/src/main/java/com/pritesh/api/config/WebConfig.java

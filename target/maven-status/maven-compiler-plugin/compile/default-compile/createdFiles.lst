@@ -1,0 +1,10 @@
+com/pritesh/api/config/SwaggerConfig.class
+com/pritesh/api/entity/Weather.class
+com/pritesh/api/service/WeatherService.class
+com/pritesh/api/Application.class
+com/pritesh/api/repository/WeatherRepository.class
+com/pritesh/api/exception/BadRequestException.class
+com/pritesh/api/serviceImpl/WeatherServiceImpl.class
+com/pritesh/api/config/WebConfig.class
+com/pritesh/api/controller/WeatherController.class
+com/pritesh/api/exception/NotFoundException.class
